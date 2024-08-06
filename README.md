@@ -24,6 +24,11 @@ I am a skilled **Senior PHP Developer** with a strong background in web applicat
 - 📚 **Staying Updated:** Committed to learning new trends and tools in technology.
 - ⚙️ **Tools & Services:** Proficient in Git, Jenkins, AWS, and Linode.
 
+## Blogging:
+
+- ✍️ **Medium:** I regularly blog about development and technology on [Medium](https://tallstackdev.medium.com/).
+- 🌐 **Website:** Check out my blog posts and projects on my [website](https://thecodersprint.com).
+
 ---
 
 I am passionate about technology and constantly strive to improve my skills to deliver high-quality solutions.
