@@ -44,3 +44,5 @@ I am passionate about technology and constantly strive to improve my skills to d
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Linode](https://img.shields.io/badge/Linode-00A95C?style=for-the-badge&logo=linode&logoColor=white)
+
+![](https://komarev.com/ghpvc/?username=thecodersprint&style=flat-square)
